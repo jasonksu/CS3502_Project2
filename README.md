@@ -40,3 +40,20 @@ The purpose of the project is to compare the performance of different CPU schedu
 
 ```bash
 python cpu_scheduler.py
+
+(If python doesn't work, try python3.)
+
+Follow the on-screen prompts:
+
+Choose scheduling algorithm (1 for SRTF, 2 for MLFQ).
+
+Enter process details (arrival time and burst time).
+
+The program will display the Gantt Chart and print all performance metrics after scheduling is completed.
+
+Notes
+This project was built entirely from scratch without using the provided starter GUI code.
+
+The simulation runs in the console (text-based, no graphical interface).
+
+Designed for cross-platform compatibility.
